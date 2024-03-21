@@ -1,0 +1,27 @@
+{
+  "name": "git_test5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtompel/git_test5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtompel/git_test5/issues"
+  },
+  "homepage": "https://github.com/gtompel/git_test5#readme",
+  "dependencies": {
+    "build": "^0.1.4",
+    "buildx": "^0.1.1",
+    "docker": "^1.0.0",
+    "express": "^4.18.3",
+    "node_example": "^1.0.0",
+    "nodejs": "0.0.0"
+  }
+}
